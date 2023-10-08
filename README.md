@@ -1,2 +1,2 @@
-# AlgoPraktikum05
+# Rekes
  Chandra Aditya
